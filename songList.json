@@ -1,0 +1,58 @@
+{
+    "songs": [
+      {
+        "title": "Ye Jhari",
+        "description": "Ye jhari na jhari deu yasari",
+        "singer": "Nabin K Bhattarai",
+        "songFile": "https://drive.google.com/file/d/14kBW-tWkpyZtt5v2leskk4zkqD9RqkNW/view",
+        "bannerImage": "",
+        "language": "Nepali",
+        "songType": "Pop Songs"
+      },
+      {
+        "title": "Yaad Piya Ki Aane Lagi",
+        "description": "This romantic song is recreated by Tanishk Bagchi, the song is sung by Neha Kakkar, penned by Jaani.",
+        "singer": "Neha Kakkar",
+        "songFile": "https://drive.google.com/file/d/1fu0_Vze9WpTJ_iZqrPz4isoUH-trnjAu/view",
+        "bannerImage": "",
+        "language": "Hindi",
+        "songType": "Pop Songs"
+      },
+      {
+        "title": "Shayad",
+        "description": "a new Hindi song sung by Very Famous Singer Arijit Singh. Shayad kabhi na keh saku lyrics are Written by Irshad Kamil and music composed by Pritam.",
+        "singer": "Arijit Singh",
+        "songFile": "https://drive.google.com/file/d/1GNjZfG0fobiwWSbueU8nS0iN_EwPlVGw/view",
+        "bannerImage": "",
+        "language": "Hindi",
+        "songType": "Romantic Songs"
+      },
+      {
+        "title": "Wafa Ne Bewafai",
+        "description": "Wafa Ne Bewafai Lyrics from Tera Surroor 2 (2016) sung by Arijit Singh, Neeti Mohan, Suzanne D'Mello. This song is composed by Himesh Reshammiya with lyrics penned by Sameer Anjaan.",
+        "singer": "Suzanne D'Mello, Arijit Singh, Neeti Mohan",
+        "songFile": "https://drive.google.com/file/d/1pDsLUfvOFyPx4S8q5mMNPImC0JM0tiFo/view",
+        "bannerImage": "",
+        "language": "Hindi",
+        "songType": "Sad Songs"
+      },
+      {
+        "title": "Timro Man",
+        "description": "Timro man badliye chha",
+        "singer": "Yash Kumar",
+        "songFile": "https://drive.google.com/file/d/1pr3NTjRpb8S5N3s7U4uRk_i387nM7O8X/view",
+        "bannerImage": "",
+        "language": "Nepali",
+        "songType": "Sad Songs"
+      },
+      {
+        "title": "Parelima",
+        "description": "Parelima lukai raakha na",
+        "singer": "Phiroj Shyangden and Adrian Pradhan",
+        "songFile": "https://drive.google.com/file/d/1Qs_V1i3kJDwXSp4p2RN5Az3jkUuQw1R2/view",
+        "bannerImage": "",
+        "language": "Nepali",
+        "songType": "Romantic Songs"
+      }
+    ]
+  }
